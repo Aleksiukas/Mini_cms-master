@@ -9,4 +9,4 @@ Login:<br>
 username - admin <br>
 password - admin
 
-https://github.com/Aleksiukas/Mini_cms/tree/master
+https://github.com/Aleksiukas/Mini_cms-master
